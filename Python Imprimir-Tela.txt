@@ -1,0 +1,16 @@
+01º DESAFIO - PERGUNTA NOME
+nome=input('Qual o seu nome?')
+mensagem=input('Seja bem vindo ' + nome)
+print(nome, mensagem)
+
+02ª DESAFIO - DATA DE NASCIMENTO')
+dia = input ('Dia de Nascimento') 
+mes = input ('Mês de Nascimento')
+ano = input ('Ano de Nascimento')
+print('Você Nasceu no dia ' +dia+ ' de ' +mes+ ' de ' +ano+', certo?')
+
+03º DESAFIO - LER NÚMERO E FAZER A SOMA 
+numero1=float(input('Digite o primeiro número: '))
+numero2=float(input('Digite o segundo número: '))
+soma= (numero1 + numero2)
+print('A soma é: ', soma)
